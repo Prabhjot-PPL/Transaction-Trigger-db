@@ -1,4 +1,7 @@
-E_commerce (go + postgres)
+(go + postgres)
+
+Database : 
+e_commerce
 
 Tables : 
 1. user_details
